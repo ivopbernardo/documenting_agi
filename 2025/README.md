@@ -2,6 +2,23 @@
 
 | Week | Date | Highlights |
 |---|---|---|
+| [W52](week-52/README.md) | Dec 22–31, 2025 | Nvidia acquires Groq ($20B), Meta acquires Manus AI, OpenAI $1.5M avg compensation, Carreyrou AI lawsuit |
+| [W51](week-51/README.md) | Dec 15–21, 2025 | GPT-5.2 Codex, OpenAI $830B valuation bid, Cursor acquires Graphite, WEF 2030 jobs report, Databricks $134B |
+| [W50](week-50/README.md) | Dec 08–14, 2025 | GPT-5.2, DeepMind Genie 3 world model, Mistral Devstral 2.0, OpenAI enterprise report (6x YoY growth) |
+| [W49](week-49/README.md) | Dec 01–07, 2025 | Gemini 3 launch, OpenAI "Code Red", Neptune + Limitless acquisitions, end of scaling era (Sutskever), Anthropic engineering study |
+| [W48](week-48/README.md) | Nov 24–30, 2025 | Claude Opus 4.5, Claude Code $1B ARR, Bun acquisition, NVIDIA DRIVE Alpamayo-R1, Apple AI leadership change |
+| [W47](week-47/README.md) | Nov 17–23, 2025 | Claude weaponised in cyberattack, OpenAI/Microsoft $865M leak, Bezos co-CEO Project Prometheus, NVIDIA earnings |
+| [W46](week-46/README.md) | Nov 10–16, 2025 | German copyright ruling vs OpenAI, LeCun leaves Meta, GPT-5.1, Anthropic $50B datacenter plan, Cursor $2.3B |
+| [W45](week-45/README.md) | Nov 03–09, 2025 | Amazon vs Perplexity (agentic AI lawsuit), Anthropic $70B 2028 projection, OpenAI $38B AWS deal, ChatGPT suicide lawsuits |
+| [W44](week-44/README.md) | Oct 27–Nov 02, 2025 | OpenAI for-profit conversion, OpenAI–Microsoft new terms, Big Tech Q3 earnings, Claude for Finance |
+| [W43](week-43/README.md) | Oct 20–26, 2025 | Amazon 14K layoffs, Wharton AI adoption report, Mistral AI Studio, OpenAI acquires Sky |
+| [W42](week-42/README.md) | Oct 13–19, 2025 | ChatGPT growth plateau, OpenAI Atlas browser, Claude Code web, Salesforce Agentforce 360, Adobe Foundry |
+| [W41](week-41/README.md) | Oct 06–12, 2025 | Nvidia RLP reasoning pre-training, OpenAI AgentKit, AI threats to democracy |
+| [W40](week-40/README.md) | Sep 29–Oct 05, 2025 | OpenAI $500B valuation, Sora 2 launch, Perplexity Comet goes free, Periodic Labs |
+| [W39](week-39/README.md) | Sep 22–28, 2025 | Nvidia $100B OpenAI bet, model distillation wave, OpenAI robotics push, Meta poaches Yang Song |
+| [W38](week-38/README.md) | Sep 15–21, 2025 | Meta Ray-Ban Display glasses, DeepMind ICPC gold medal, Google £5B UK investment |
+| [W37](week-37/README.md) | Sep 08–14, 2025 | OpenAI+NBER ChatGPT usage study, GPT-5-Codex, YouTube Shorts AI tools |
+| [W36](week-36/README.md) | Sep 01–07, 2025 | Anthropic $1.5B copyright settlement, $183B Series F, Google Nano Banana, OpenAI acquires Statsig |
 | [W33](week-33/README.md) | Aug 18–23, 2025 | DeepSeek V3.1 (658B open-source), fake AI journalist scandal, OpenAI $500B valuation |
 | [W32](week-32/README.md) | Aug 11–18, 2025 | Meta chatbot scandal, Perplexity Chrome bid, NVIDIA Physical AI |
 | [W31](week-31/README.md) | Jul 28–Aug 03, 2025 | Anthropic overtakes OpenAI in enterprise, Meta Superintelligence Labs |
