@@ -18,13 +18,13 @@ A living archive of the road to AGI — weekly news, model launches, research pa
 
 | Week | Date | Highlights |
 |---|---|---|
-| [2026 W13](2026/week-13/README.md) | Mar 23–29, 2026 | Sora shutdown ($1M/day, $2.1M lifetime revenue), AI Scientist in Nature, LiteLLM supply chain attack, Voxtral TTS |
+| [2026 W13](2026/week-13/README.md) | Mar 23–29, 2026 | Sora shutdown ($1M/day burn rate, $2.1M lifetime revenue), AI Scientist in Nature, LiteLLM supply chain attack, Voxtral TTS |
 | [2026 W12](2026/week-12/README.md) | Mar 16–22, 2026 | Meta 16K layoffs, Avocado delayed, OpenAI acquires Astral (Python toolchain), Bezos $100B industrial fund |
 | [2026 W11](2026/week-11/README.md) | Mar 09–15, 2026 | OpenAI robotics lead resigns (DoD fallout), AMI Labs $1.03B seed, inline visuals (Claude + ChatGPT), Promptfoo acquisition |
 | [2026 W10](2026/week-10/README.md) | Mar 02–08, 2026 | OpenAI $110B round, Claude #1 App Store (183% DAU surge), 95% nuclear escalation study, GPT-5.4, Anthropic labor report |
 | [2026 W09](2026/week-09/README.md) | Feb 23–Mar 01, 2026 | Anthropic walks away from DoD contract, OpenAI signs it, Claude Code Security, agent autonomy framework |
 | [2026 W08](2026/week-08/README.md) | Feb 16–22, 2026 | OpenAI removes "safety" from mission, Gemini 3.1, Fei-Fei Li World Labs $1B, Perplexity abandons ads |
-| [2026 W07](2026/week-07/README.md) | Feb 09–15, 2026 | GPT-4o retired (2yr obsolescence cycle), Claude Sonnet 4.6, China CCTV robot Sputnik moment, OpenAI physics breakthrough |
+| [2026 W07](2026/week-07/README.md) | Feb 09–15, 2026 | GPT-4o retired, Claude Sonnet 4.6, China CCTV robot Sputnik moment, OpenAI physics breakthrough |
 | [2026 W06](2026/week-06/README.md) | Feb 02–08, 2026 | Anthropic $380B Series G, OpenAI disbands alignment team, ChatGPT ads live, HBR workload creep study |
 | [2026 W05](2026/week-05/README.md) | Jan 26–Feb 01, 2026 | Claude Opus 4.6 vs GPT-5.3 Codex (20 min apart), Microsoft Copilot rollback, Moltbook/dead web, OECD -17% exam result |
 | [2026 W04](2026/week-04/README.md) | Jan 19–25, 2026 | Apple picks Google Gemini for Siri, AMI Labs (LeCun), MIT brain/ChatGPT study, Anthropic Economic Index |
