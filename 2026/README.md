@@ -2,6 +2,7 @@
 
 | Week | Date | Highlights |
 |---|---|---|
+| [W14](week-14/README.md) | Apr 6–12, 2026 | OpenAI $852B valuation round, Anthropic ends flat-rate for agentic tools, Oracle 20K layoffs, Mistral $830M debt, Coefficient Bio acquisition |
 | [W13](week-13/README.md) | Mar 23–29, 2026 | Sora shutdown ($1M/day, $2.1M lifetime revenue), AI Scientist in Nature, LiteLLM supply chain attack, Voxtral TTS |
 | [W12](week-12/README.md) | Mar 16–22, 2026 | Meta 16K layoffs, Avocado delayed, OpenAI acquires Astral (Python toolchain), Bezos $100B industrial fund |
 | [W11](week-11/README.md) | Mar 09–15, 2026 | OpenAI robotics lead resigns (DoD fallout), AMI Labs $1.03B seed, inline visuals (Claude + ChatGPT), Promptfoo acquisition |
