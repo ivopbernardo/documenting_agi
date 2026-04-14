@@ -4,6 +4,7 @@ All model releases and product launches, newest first.
 
 | Date | Name | Type | Why it matters | Week |
 |---|---|---|---|---|
+| Apr 2026 | [Claude Mythos Preview](https://anthropic.com) | Frontier language model (restricted) | Anthropic's most capable model; not released publicly — identified thousands of zero-day vulnerabilities across every major OS and browser as a side effect of general training; deployed only via Project Glasswing to a handful of trusted partners for defensive cyber use | [2026 W15](../2026/week-15/README.md) |
 | Mar 2026 | [Mistral Voxtral TTS](https://mistral.ai) | Open-source TTS | 9 languages, voice cloning from under 5 sec of audio, runs on edge devices including smartwatches; near-zero barrier to synthetic voice | [2026 W13](../2026/week-13/README.md) |
 | Mar 2026 | [Anthropic Claude Marketplace](https://anthropic.com) | Enterprise platform | Redirects Anthropic spending commitments toward Claude-powered third-party tools; partners include Harvey (legal), Rogo (finance), Snowflake, GitLab, Lovable | [2026 W10](../2026/week-10/README.md) |
 | Mar 2026 | [OpenAI GPT-5.4](https://openai.com) | Flagship language model | Most capable OpenAI model for professional work; consolidates advanced reasoning, coding, and computer use into single flagship | [2026 W10](../2026/week-10/README.md) |
