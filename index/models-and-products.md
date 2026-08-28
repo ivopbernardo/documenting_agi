@@ -1,6 +1,6 @@
-# Model & Product Launches
+# Models & Products
 
-All model releases and product launches, newest first.
+All model releases and product launches (platforms, tools, APIs, integrations, hardware, infra deals), newest first.
 
 | Date | Name | Type | Why it matters | Week |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@ All model releases and product launches, newest first.
 | May 2026 | [OpenAI GPT-5.5 Instant](https://openai.com) | Everyday flagship model | New ChatGPT default; AIME 2025 score up to 81.2 from 65.4; improved hallucination rates in law/medicine | [2026 W19](../2026/week-19/README.md) |
 | May 2026 | [Anthropic × SpaceX compute deal](https://anthropic.com) | Compute infrastructure | 220,000+ NVIDIA GPUs, 300MW at Colossus 1; doubled Claude Code rate limits, raised Opus API limits | [2026 W19](../2026/week-19/README.md) |
 | Apr 2026 | [Claude Mythos Preview](https://anthropic.com) | Frontier language model (restricted) | Anthropic's most capable model; not released publicly — identified thousands of zero-day vulnerabilities across every major OS and browser as a side effect of general training; deployed only via Project Glasswing to a handful of trusted partners for defensive cyber use | [2026 W15](../2026/week-15/README.md) |
+| Apr 2026 | [Claude Managed Agents](https://anthropic.com) | Agent platform (public beta) | Composable APIs for building and deploying cloud-hosted agents at scale; Anthropic's answer to OpenAI's AgentKit — native cloud agent infrastructure on the Claude Platform | [2026 W15](../2026/week-15/README.md) |
 | Mar 2026 | [Mistral Voxtral TTS](https://mistral.ai) | Open-source TTS | 9 languages, voice cloning from under 5 sec of audio, runs on edge devices including smartwatches; near-zero barrier to synthetic voice | [2026 W13](../2026/week-13/README.md) |
 | Mar 2026 | [Anthropic Claude Marketplace](https://anthropic.com) | Enterprise platform | Redirects Anthropic spending commitments toward Claude-powered third-party tools; partners include Harvey (legal), Rogo (finance), Snowflake, GitLab, Lovable | [2026 W10](../2026/week-10/README.md) |
 | Mar 2026 | [OpenAI GPT-5.4](https://openai.com) | Flagship language model | Most capable OpenAI model for professional work; consolidates advanced reasoning, coding, and computer use into single flagship | [2026 W10](../2026/week-10/README.md) |

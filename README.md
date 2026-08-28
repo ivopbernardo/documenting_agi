@@ -6,8 +6,7 @@ A living archive of the road to AGI — weekly news, model launches, research pa
 
 | I want to... | Go to |
 |---|---|
-| See all model releases | [index/models.md](index/models.md) |
-| See all product launches | [index/products.md](index/products.md) |
+| See all models & product launches | [index/models-and-products.md](index/models-and-products.md) |
 | See all research papers | [index/papers.md](index/papers.md) |
 | See all notable repos | [index/repos.md](index/repos.md) |
 | See all news items | [index/news.md](index/news.md) |
