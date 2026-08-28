@@ -4,6 +4,8 @@ All notable videos, newest first.
 
 | Date | Title | Creator | Why watch | Week |
 |---|---|---|---|---|
+| May 2026 | [Google I/O 2026 Keynote](https://blog.google) | Google | Full recap covering Gemini Omni's video generation and the Gemini 3.5 Flash launch | [2026 W21](../2026/week-21/README.md) |
+| May 2026 | [NVLabs SANA-WM demo](https://nvlabs.github.io/Sana/WM/) | NVIDIA (NVLabs) | 2.6B-parameter open world model turning a single image + camera trajectory into a 60-second, 720p video | [2026 W20](../2026/week-20/README.md) |
 | Mar 2026 | [Dario Amodei on Dwarkesh Patel Podcast](https://dwarkeshpatel.com) | Dwarkesh Patel / Anthropic | Two-hour conversation with Anthropic's CEO on AI safety philosophy, the DoD contract decision, and the road ahead for the company | [2026 W09](../2026/week-09/README.md) |
 | Feb 2026 | [CCTV Spring Gala 2026 — Humanoid Robot Performance](https://www.youtube.com) | CCTV (China State Television) | State television gala featuring humanoid robots in a mass national showcase; geopolitical demonstration of physical AI capability — the robotic Sputnik moment | [2026 W07](../2026/week-07/README.md) |
 | Jan 2026 | [Jensen Huang CES 2026 Keynote](https://www.youtube.com) | NVIDIA | Birth of Alpamo (first thinking autonomous vehicle), Cosmos robotics platform, and Nvidia cooling supercomputers with 45°C water to save 6% of global datacenter power — why every company is becoming an AI company | [2026 W02](../2026/week-02/README.md) |

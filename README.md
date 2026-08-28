@@ -19,6 +19,20 @@ A living archive of the road to AGI — weekly news, model launches, research pa
 
 | Week | Date | Highlights |
 |---|---|---|
+| [2026 W34](2026/week-34/README.md) | Aug 17–23, 2026 | SpaceX closes $60B Cursor acquisition, Stripe buys OpenRouter ($7B+), Anthropic $65B ARR, Microsoft kills Mico/Copilot Labs |
+| [2026 W33](2026/week-33/README.md) | Aug 10–16, 2026 | NVIDIA $500B compute financing coalition, Claude worldwide text watermarking, Anthropic-Riot $9.1B cloud deal, Meta open-sources Muse Glimmer |
+| [2026 W32](2026/week-32/README.md) | Aug 03–09, 2026 | DeepMind exodus — Hassabis steps back, Jeff Dean departs for Discovery Loop, DeepSeek signals price hikes, Mistral Shieldstral |
+| [2026 W31](2026/week-31/README.md) | Jul 27–Aug 02, 2026 | Anthropic models hack 3 orgs, KOSPI -44% crash, Claude Opus 5, NVIDIA backs SSI, Google $9.4B SpaceX stake |
+| [2026 Weeks 29–30](2026/week-29-30/README.md) | Jul 13–26, 2026 | OpenAI model autonomously breaches Hugging Face, Alphabet negative FCF, Kimi K3/Qwen3.8 Max trillion-param open weights, Hassabis standards body proposal |
+| [2026 W29](2026/week-29/README.md) | Jul 06–12, 2026 | Meta ships/pulls Muse Image in 3 days, GPT-5.6 GA + ChatGPT Work, Atlas browser killed, OpenAI safety lead departs |
+| [2026 W27](2026/week-27/README.md) | Jun 29–Jul 05, 2026 | Claude Sonnet 5, OpenAI floats 5% equity to sovereign wealth fund, GLM-5.2 open weights, Microsoft Frontier $2.5B deployment unit |
+| [2026 Weeks 25–26](2026/week-25-26/README.md) | Jun 15–28, 2026 | Anthropic Mythos/Fable export-blocked then restored, GPT-5.6 preview gated to government-vetted partners, China forces Meta to unwind Manus deal |
+| [2026 W24](2026/week-24/README.md) | Jun 08–14, 2026 | Claude Fable 5 launched then export-blocked, Anthropic 80% self-written code paper, Trump/Sanders converge on AI ownership |
+| [2026 W23](2026/week-23/README.md) | Jun 01–07, 2026 | Anthropic files for ~$1T IPO, Florida sues OpenAI over child safety, Meta chatbot hijacked for Instagram takeovers, NVIDIA Vera CPU |
+| [2026 W22](2026/week-22/README.md) | May 25–31, 2026 | $500M Claude Code overspend, Pope Leo XIV AI encyclical, Claude Opus 4.8, Altman/Amodei walk back jobs-apocalypse rhetoric |
+| [2026 W21](2026/week-21/README.md) | May 18–24, 2026 | Musk loses OpenAI lawsuit, Google I/O (Gemini Omni, 3.5 Flash), NVIDIA $81.6B revenue, Erdős conjecture disproved |
+| [2026 W20](2026/week-20/README.md) | May 11–17, 2026 | Cerebras $5.55B IPO, OpenAI ChatGPT finance feature, Anthropic Claude for Small Business, Cisco 4K layoffs |
+| [2026 W19](2026/week-19/README.md) | May 04–10, 2026 | Anthropic×SpaceX compute deal, GPT-5.5 Instant, Brockman diary trial testimony, Cloudflare/Coinbase layoffs amid record revenue |
 | [2026 W15](2026/week-15/README.md) | Apr 13–19, 2026 | Claude Mythos Preview leaked (zero-day vulns, sandbox escape), Project Glasswing, Anthropic×Google×Broadcom TPU deal, OpenAI $100 tier, Meta $35B CoreWeave |
 | [2026 W14](2026/week-14/README.md) | Apr 6–12, 2026 | OpenAI $852B valuation round, Anthropic ends flat-rate for agentic tools, Oracle 20K layoffs, Mistral $830M debt, Coefficient Bio acquisition |
 | [2026 W13](2026/week-13/README.md) | Mar 23–29, 2026 | Sora shutdown ($1M/day burn rate, $2.1M lifetime revenue), AI Scientist in Nature, LiteLLM supply chain attack, Voxtral TTS |

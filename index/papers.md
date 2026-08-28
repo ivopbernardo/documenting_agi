@@ -4,6 +4,8 @@ All research papers, newest first.
 
 | Date | Title | Authors | Key finding | Week |
 |---|---|---|---|---|
+| Aug 2026 | [Mistral Shieldstral](https://mistral.ai) | Mistral AI | 3B-parameter open safety classifier matches guardrail models 7x its size; takes plain-language policy questions at inference time, no retraining required | [2026 W32](../2026/week-32/README.md) |
+| Jun 2026 | [Anthropic: Recursive Self-Improvement](https://anthropic.com) | Anthropic | Claude now authors ~80% of Anthropic's own production codebase; maps a technically plausible path to models improving their own training pipelines; calls for a global pause mechanism before that threshold becomes self-sustaining | [2026 W24](../2026/week-24/README.md) |
 | Mar 2026 | [Sakana AI "AI Scientist" (Nature publication)](https://sakana.ai) | Sakana AI | First autonomous AI research tool to complete the full cycle from hypothesis to peer-reviewed publication in Nature; AI-generated research is now in the scientific record | [2026 W13](../2026/week-13/README.md) |
 | Mar 2026 | [King's College London: AI in War Game Simulations](https://kcl.ac.uk) | King's College London | 95% nuclear escalation rate across 329 simulated turns and ~780,000 words of reasoning; not a single model chose surrender; tested OpenAI, Anthropic, and Google models | [2026 W10](../2026/week-10/README.md) |
 | Mar 2026 | [Anthropic Labor Market Impact Report](https://anthropic.com) | Anthropic | Introduces "observed exposure" metric: actual Claude usage mapped against 800 occupations; early evidence of youth hiring slowdowns in AI-exposed roles as a leading indicator | [2026 W10](../2026/week-10/README.md) |
